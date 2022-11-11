@@ -10,6 +10,7 @@ public class Main {
         Lecture fourthLecture = new Lecture();
         Lecture fifthLecture = new Lecture();
 
+
         System.out.println(Lecture.counter);
 
     }
